@@ -1,0 +1,29 @@
+.cuerpo {
+      height: 1000px;  
+      background-image: url(Img/img\ shabbat1.jpg); 
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-position: center;
+      display: block;
+       
+}
+
+.pie {
+    margin: 20px;
+    border: black;
+    border-radius: 2px;
+    font-size: 10px;
+    font-family: Georgia;
+    height: 100px;
+    width: 200px;
+    padding: 0px;
+    color: blue;
+
+}
+
+.carousel-inner {
+    height: 400px;
+    width: 100%;
+  
+}
