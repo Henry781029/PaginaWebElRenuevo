@@ -27,3 +27,26 @@
     width: 100%;
   
 }
+
+.seccion1 {
+    background-color: cadetblue;
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+.seccion2 {
+    background-color: blueviolet;
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+.seccion3 {
+    background-color: cadetblue;
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+}
+
+.cajas1 {
+    align-items: center;
+}
